@@ -1,0 +1,53 @@
+main {
+	padding-top: 70px;
+	font-size: 0;
+  
+}
+
+.inner {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.container {
+  width: 800px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.inner-one {
+	width: 50%;
+	background-color: green;
+	height: 200px;
+
+}
+
+.inner-two {
+	width: 50%;
+	background-color: blue;
+	height: 200px;
+
+}
+
+.inner-three {
+	width: 33.3%;
+	background-color: gray;
+	height: 300px;
+
+}
+
+.inner-four {
+	width: 33.3%;
+	background-color: black;
+	height: 300px;
+
+}
+
+.inner-five {
+	width: 33.3%;
+	background-color: #f3a633;
+	height: 300px;
+
+}
